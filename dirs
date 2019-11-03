@@ -1,0 +1,16 @@
+rm -ri ~/Desktop 
+
+mv ~/Templates ~/.templates
+
+mkdir ~/Repos
+mkdir ~/Resources
+
+mkdir ~/Media
+
+mv ~/Pictures ~/Media
+mv ~/Music ~/Media
+mv ~/Videos ~/Media
+
+mkdir ~/.scripts
+mkdir ~/.wallpaper
+mkdir ~/.wallpaper2

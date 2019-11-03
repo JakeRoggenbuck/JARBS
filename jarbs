@@ -1,0 +1,6 @@
+git clone https://github.com/JakeRoggenbuck/ConfigFiles ~/Downloads/ConfigFiles
+
+git clone https://github.com/JakeRoggenbuck/.scripts.git ~/.scripts 
+
+bash dirs
+bash dots
