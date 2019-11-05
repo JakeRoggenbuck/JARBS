@@ -23,12 +23,12 @@ mkdir ~/.wallpaper2
 
 #Moves needed config files
 cd ~/Downloads/ConfigFiles
-mv bspwm/ ~/.config/bspwm/     
-mv sxhkd/ ~/.config/sxhkd/     
-mv polybar/ ~/.config/polybar/ 
-mv dunst/ ~/.config/dunst/     
-mv rofi/ ~/.config/rofi/
-mv nvim/ ~/.config/nvim/
+mv bspwm/ ~/.config/     
+mv sxhkd/ ~/.config/     
+mv polybar/ ~/.config/ 
+mv dunst/ ~/.config/     
+mv rofi/ ~/.config/
+mv nvim/ ~/.config/
 
 mv .bashrc ~/
 mv .profile ~/
