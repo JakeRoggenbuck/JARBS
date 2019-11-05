@@ -28,6 +28,8 @@ mv sxhkd/ ~/.config/sxhkd/
 mv polybar/ ~/.config/polybar/ 
 mv dunst/ ~/.config/dunst/     
 mv rofi/ ~/.config/rofi/
+mv nvim/ ~/.config/nvim/
+
 mv .bashrc ~/
 mv .profile ~/
 mv .wallpapers/ ~/
