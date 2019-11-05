@@ -27,6 +27,7 @@ mv bspwm/ ~/.config/bspwm/
 mv sxhkd/ ~/.config/sxhkd/     
 mv polybar/ ~/.config/polybar/ 
 mv dunst/ ~/.config/dunst/     
+mv rofi/ ~/.config/rofi/
 mv .bashrc ~/
 mv .wallpapers/ ~/
 
