@@ -29,6 +29,7 @@ mv polybar/ ~/.config/polybar/
 mv dunst/ ~/.config/dunst/     
 mv rofi/ ~/.config/rofi/
 mv .bashrc ~/
+mv .profile ~/
 mv .wallpapers/ ~/
 
 #Installs programs from array
