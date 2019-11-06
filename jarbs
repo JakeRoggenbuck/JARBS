@@ -17,10 +17,6 @@ mv ~/Pictures ~/Media
 mv ~/Music ~/Media
 mv ~/Videos ~/Media
 
-mkdir ~/.scripts
-mkdir ~/.wallpaper
-mkdir ~/.wallpaper2
-
 #Moves needed config files
 cd ~/Downloads/ConfigFiles
 mv bspwm/ ~/.config/     
