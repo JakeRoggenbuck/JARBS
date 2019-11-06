@@ -29,6 +29,7 @@ mv polybar/ ~/.config/
 mv dunst/ ~/.config/     
 mv rofi/ ~/.config/
 mv nvim/ ~/.config/
+mv vim/ ~/.config/
 
 mv .bashrc ~/
 mv .profile ~/
