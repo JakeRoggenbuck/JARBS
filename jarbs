@@ -27,6 +27,8 @@ mv rofi/ ~/.config/
 mv nvim/ ~/.config/
 mv vim/ ~/.config/
 
+mv user-dirs.dirs ~/.config
+
 mv .bashrc ~/
 mv .profile ~/
-mv .wallpapers/ ~/
+mv .wallpaper/ ~/
