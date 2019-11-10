@@ -27,6 +27,8 @@ mv rofi/ ~/.config/
 mv nvim/ ~/.config/
 mv vim/ ~/.config/
 
+mkdir --parents /usr/share/xfce4/terminal/colorschemes/; mv xfce4TerminalColorSchemes/* $_
+
 mv user-dirs.dirs ~/.config
 
 mv .bashrc ~/
