@@ -1,4 +1,4 @@
-# Jake Auto Rice Bash Script
+# Jake's Auto Rice Bash Script
 
 ## Configs for
 * bspwm
