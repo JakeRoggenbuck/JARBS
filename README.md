@@ -1,13 +1,6 @@
-######     _            _         
-######    | | __ _ _ __| |__  ___ 
-###### _  | |/ _` | '__| '_ \/ __|
-######| |_| | (_| | |  | |_) \__ \
-###### \___/ \__,_|_|  |_.__/|___/
-######
+# Jake Auto Rice Bash Script
 
-#Jake Auto Rice Bash Script
-
-##Configs for
+## Configs for
 * bspwm
 * sxhkd
 * polybar
