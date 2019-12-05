@@ -45,5 +45,6 @@ mv user-dirs.dirs ~/.config
 
 mv .bashrc ~/
 mv .bash_aliases ~/
+mv .xscreensaver ~/
 mv .profile ~/
 mv .wallpaper/ ~/
