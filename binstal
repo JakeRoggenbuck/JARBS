@@ -1,5 +1,5 @@
 #Installs programs from array
-bins=(neovim vim emacs feh eog ranger vifm thunar fasd sxhkd bspwm polybar compton xfce4-terminal alacritty termite gimp kate firefox atom lxappearance ffmpeg dmenu rofi neofetch gnome-tweaks)
+bins=(neovim vim emacs feh eog ranger vifm thunar fasd sxhkd bspwm polybar compton alacritty termite gimp kate firefox brave lxappearance ffmpeg dmenu rofi neofetch htop kdenlive redshift openssh texlive pandoc yay)
 
 for x in "${bins[@]}" 
 do      
